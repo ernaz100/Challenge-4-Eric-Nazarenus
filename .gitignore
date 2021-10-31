@@ -9,7 +9,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-
+# Challenge Dir
+Challenge4_Build_Eric_Nazarenus/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
